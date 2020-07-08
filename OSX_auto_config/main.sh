@@ -9,6 +9,9 @@
 # Install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+# Deactivate google analytics
+brew analytics off
+
 # Install Brew Packages
 brew install python
 brew install dockutil # For the dock
