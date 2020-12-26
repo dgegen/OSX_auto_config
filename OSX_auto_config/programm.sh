@@ -15,6 +15,7 @@ brew cask install firefox
 
 # office
 brew cask install microsoft-office
+brew install --cask carbon-copy-cloner
 
 # editor
 brew cask install virtualbox
