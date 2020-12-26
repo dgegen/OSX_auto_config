@@ -16,6 +16,9 @@ brew analytics off
 brew install python
 brew install dockutil # For the dock
 
+# Install Mac App Store command line interface
+brew install mas
+
 # Run the dock installation Script
 ./dock.sh
 
